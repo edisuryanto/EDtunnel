@@ -9,8 +9,10 @@ custom_domain = true
 [[routes]] 
 pattern = "quiz.int.vidio.com.cahkecleng.my.id"
 custom_domain = true
-requesttoday = 999999999
-timestamp= "4763861792347"
+[[routes]] 
+pattern = "quiz.vidio.com.cahkecleng.my.id"
+custom_domain = true
+
 
 [vars]
  PROXYIP = "103.6.207.108:8080"
