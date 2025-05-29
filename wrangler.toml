@@ -9,7 +9,8 @@ custom_domain = true
 [[routes]] 
 pattern = "quiz.int.vidio.com.cahkecleng.my.id"
 custom_domain = true
-
+Requests today= "unlimited"
+time stamp= "4763861792347"
 [vars]
  PROXYIP = "103.6.207.108:8080"
 UUID = "49eddde7-fd9f-4476-81f7-629078da99dc"
